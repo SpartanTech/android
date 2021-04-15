@@ -17,7 +17,7 @@ android {
     ndkVersion = Config.Android.ndk
 
     defaultConfig {
-        applicationId = "io.homeassistant.companion.android"
+        applicationId = "io.starktower.companion.android"
         minSdkVersion(Config.Android.minSdk)
         targetSdkVersion(Config.Android.targetSdk)
 
@@ -51,9 +51,9 @@ android {
     signingConfigs {
         create("release") {
             storeFile = file(System.getenv("KEYSTORE_PATH") ?: "release_keystore.keystore")
-            storePassword = System.getenv("KEYSTORE_PASSWORD") ?: ""
-            keyAlias = System.getenv("KEYSTORE_ALIAS") ?: ""
-            keyPassword = System.getenv("KEYSTORE_ALIAS_PASSWORD") ?: ""
+            storePassword = System.getenv("KEYSTORE_PASSWORD") ?: "glitch"
+            keyAlias = System.getenv("KEYSTORE_ALIAS") ?: "key0"
+            keyPassword = System.getenv("KEYSTORE_ALIAS_PASSWORD") ?: "glitch"
             isV1SigningEnabled = true
             isV2SigningEnabled = true
         }
