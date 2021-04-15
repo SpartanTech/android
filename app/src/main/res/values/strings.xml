@@ -16,7 +16,7 @@
   <string name="activity_intent_error">Unable to send activity intent, please check command format</string>
   <string name="add_service_data_field">Add Field</string>
   <string name="add_widget">Add widget</string>
-  <string name="app_name">Home Assistant</string>
+  <string name="app_name">Stark Tower</string>
   <string name="app_version_info">App Version Info</string>
   <string name="application_version">Application Version</string>
   <string name="attempting_registration">Registering application…</string>
@@ -25,8 +25,8 @@
   <string name="auth_error">Authentication Error</string>
   <string name="auth_error_message">The \'Username\' and \'Password\' fields must be completed</string>
   <string name="auth_request">Authentication Requested</string>
-  <string name="background_access_disabled">Home Assistant does not have access to run in the background.  Click here to request permissions.</string>
-  <string name="background_access_enabled">Home Assistant has access to run in the background.</string>
+  <string name="background_access_disabled">Stark Tower does not have access to run in the background.  Click here to request permissions.</string>
+  <string name="background_access_enabled">Stark Tower has access to run in the background.</string>
   <string name="background_access_title">Background Access</string>
   <string name="basic_sensor_lullaby">Lullaby</string>
   <string name="basic_sensor_name_active_notification_count">Active Notification Count</string>
@@ -89,7 +89,7 @@
   <string name="basic_sensor_sleep_tracking">Sleep Tracking</string>
   <string name="biometric_message">Unlock using your biometric or screenlock credential</string>
   <string name="biometric_set_title">Confirm to continue</string>
-  <string name="biometric_title">Home Assistant is locked</string>
+  <string name="biometric_title">Stark Tower is locked</string>
   <string name="ble_transmit_power_label_high">High</string>
   <string name="ble_transmit_power_label_low">Low</string>
   <string name="ble_transmit_power_label_medium">Medium</string>
@@ -102,7 +102,7 @@
   <string name="calendar">Calendar</string>
   <string name="cancel">Cancel</string>
   <string name="changelog">Change Log</string>
-  <string name="checking_with_home_assistant">Checking with Home Assistant</string>
+  <string name="checking_with_home_assistant">Checking with Stark Tower</string>
   <string name="config">Configuration</string>
   <string name="configure_service_call">Configure Service Call</string>
   <string name="configure_widget_label">Widget Label</string>
@@ -114,14 +114,14 @@
   <string name="confirm_delete_this_widget_title">Confirm deleting this widget</string>
   <string name="confirm_negative">NO</string>
   <string name="confirm_positive">YES</string>
-  <string name="connect_to_home_assistant">Connect to Home Assistant</string>
+  <string name="connect_to_home_assistant">Connect to Stark Tower</string>
   <string name="connect_to_home_internet">Make sure your phone is connected
 to your home internet.</string>
-  <string name="connected_to_home_assistant">Connected to Home Assistant</string>
+  <string name="connected_to_home_assistant">Connected to Stark Tower</string>
   <string name="crash_reporting">Crash Reporting</string>
   <string name="crash_reporting_summary">Help the developers fix bugs and crashes by leaving this enabled. If the application crashes this will automatically generate and send a report. If you notice a crash also create an issue on Github!</string>
   <string name="create_template">Create Template</string>
-  <string name="database_event_failure">Unable to send migration failure event to Home Assistant</string>
+  <string name="database_event_failure">Unable to send migration failure event to Stark Tower</string>
   <string name="database_migration_failed">Database migration failed, all sensor and widget data has been reset. Please re-enable your sensors and recreate your widgets.</string>
   <string name="delete_all_notifications">Delete all notifications from history</string>
   <string name="delete_this_notification">Delete this notification from history</string>
@@ -151,21 +151,21 @@ to your home internet.</string>
   <string name="enable_all_sensors">Enable All Sensors</string>
   <string name="enable_all_sensors_summary">All required permissions will be requested upon enabling</string>
   <string name="enable_location_tracking">Enable Location Tracking</string>
-  <string name="enable_location_tracking_description">Enabling this sensor will allow the Home Assistant application to track you location and report it back to your instance of Home Assistant. Ensure that you enable background access to location, otherwise we cannot enable location tracking.  Your location data is sent directly to your Home Assistant instance and is never sent to a 3rd party.</string>
+  <string name="enable_location_tracking_description">Enabling this sensor will allow the Stark Tower application to track you location and report it back to your instance of Stark Tower. Ensure that you enable background access to location, otherwise we cannot enable location tracking.  Your location data is sent directly to your Stark Tower instance and is never sent to a 3rd party.</string>
   <string name="enable_location_tracking_prompt">This app collects location data to enable Location Tracking, Wifi Connection Status, and URL decision making even when the app is closed or not in use.</string>
   <string name="enable_remaining_sensors">Enable %1$d Sensors</string>
-  <string name="enabled_summary">When enabled values will be sent to Home Assistant</string>
+  <string name="enabled_summary">When enabled values will be sent to Stark Tower</string>
   <string name="enabled">Enabled</string>
   <string name="entity_attribute_checkbox">Append Attribute Value</string>
-  <string name="error_auth_revoked">It appears that your authorization was revoked, please reconnect to Home Assistant.</string>
-  <string name="error_connection_failed">Unable to connect to Home Assistant.</string>
-  <string name="error_onboarding_connection_failed">Unable to connect to Home Assistant.</string>
-  <string name="error_ssl">Unable to communicate with Home Assistant because of a SSL error.  Please ensure your certificate is valid.</string>
+  <string name="error_auth_revoked">It appears that your authorization was revoked, please reconnect to Stark Tower.</string>
+  <string name="error_connection_failed">Unable to connect to Stark Tower.</string>
+  <string name="error_onboarding_connection_failed">Unable to connect to Stark Tower.</string>
+  <string name="error_ssl">Unable to communicate with Stark Tower because of a SSL error.  Please ensure your certificate is valid.</string>
   <string name="error_with_registration">Please check to ensure you have the mobile_app 
-integration enabled on your home assistant instance.</string>
+integration enabled on your Stark Tower instance.</string>
   <string name="event_error">Failed to notify HA of picked option.</string>
   <string name="exit">Exit</string>
-  <string name="failed_scan">Scanning for Home Assistant failed.</string>
+  <string name="failed_scan">Scanning for Stark Tower failed.</string>
   <string name="filter_notifications">Filter Notifications</string>
   <string name="filter_sensors">Filter sensors</string>
   <string name="finish">Finish</string>
@@ -178,9 +178,9 @@ integration enabled on your home assistant instance.</string>
   <string name="high_accuracy_mode_notification_title">High accuracy (GPS) mode enabled</string>
   <string name="history">History</string>
   <string name="home_assistant_not_discover">Unable to find your 
-Home Assistant instance</string>
+Stark Tower instance</string>
   <string name="icon">Icon</string>
-  <string name="input_url">Home Assistant URL</string>
+  <string name="input_url">Stark Tower URL</string>
   <string name="input_url_hint">https://example.duckdns.org:8123</string>
   <string name="label_attribute">Attribute:</string>
   <string name="label_dynamic_data">Data:</string>
@@ -234,7 +234,7 @@ Home Assistant instance</string>
   <string name="nfc_event_fired_fail">Firing event failed. Please try again.</string>
   <string name="nfc_event_fired_success">Event fired</string>
   <string name="nfc_example_trigger">Example Trigger</string>
-  <string name="nfc_invalid_tag">This tag does not contain Home Assistant data</string>
+  <string name="nfc_invalid_tag">This tag does not contain Stark Tower data</string>
   <string name="nfc_processing_tag_error">Error while processing nfc tag</string>
   <string name="nfc_read_fragment_label">NFC Read Fragment</string>
   <string name="nfc_read_tag_instructions">Place your phone over the nfc tag to read it.</string>
@@ -243,7 +243,7 @@ Home Assistant instance</string>
   <string name="nfc_title_nfc_setup">NFC Tags</string>
   <string name="nfc_title_settings">NFC Tags</string>
   <string name="nfc_welcome_fragment_label">NFC Welcome Fragment</string>
-  <string name="nfc_welcome_message">NFC tags written by the app will fire an event once you bring your device near them.\n\nTags will work on any device with Home Assistant installed which has hardware support to read them.</string>
+  <string name="nfc_welcome_message">NFC tags written by the app will fire an event once you bring your device near them.\n\nTags will work on any device with Stark Tower installed which has hardware support to read them.</string>
   <string name="nfc_write_fragment_label">NFC Write Fragment</string>
   <string name="nfc_write_tag_error">Error while writing nfc tag</string>
   <string name="nfc_write_tag_instructions">Place phone over nfc tag to write the following identifier to it %1$s</string>
@@ -271,11 +271,11 @@ Home Assistant instance</string>
   <string name="pref_connection_internal">Internal Connection URL</string>
   <string name="pref_connection_ssids_empty">Configure your WiFi SSID(s)</string>
   <string name="pref_connection_title">Connection Information</string>
-  <string name="pref_connection_url">Home Assistant URL</string>
+  <string name="pref_connection_url">Stark Tower URL</string>
   <string name="pref_connection_wifi">Home Network WiFi SSID</string>
   <string name="pref_location_background_summary">Update your location behind the scenes, periodically.</string>
   <string name="pref_location_background_title">Background Location Tracking</string>
-  <string name="pref_location_zone_summary">Import existing Home Assistant zones as geofences for zone based tracking.</string>
+  <string name="pref_location_zone_summary">Import existing Stark Tower zones as geofences for zone based tracking.</string>
   <string name="pref_location_zone_title">Zone Based Tracking</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="privacy_url">https://www.home-assistant.io/privacy</string>
@@ -294,9 +294,9 @@ Home Assistant instance</string>
   <string name="save">Save</string>
   <string name="scan_again">scan again</string>
   <string name="scanning_network">Scanning the network 
-for Home Assistant</string>
+for Stark Tower</string>
   <string name="security">Security</string>
-  <string name="security_vulnerably_message">Your version of Home Assistant does not protect for recently discovered security vulnerabilities in custom components. Please view the details via the bulletin and update as soon as possible.</string>
+  <string name="security_vulnerably_message">Your version of Stark Tower does not protect for recently discovered security vulnerabilities in custom components. Please view the details via the bulletin and update as soon as possible.</string>
   <string name="security_vulnerably_title">Security Vulnerably Warning</string>
   <string name="security_vulnerably_understand">I Understand</string>
   <string name="security_vulnerably_view">View Bulletin</string>
@@ -342,9 +342,9 @@ like to connect to:</string>
   <string name="sensor_description_last_removed_notification">The details of the last removed notification. This can be any notification either cleared by the user or removed by an application.</string>
   <string name="sensor_description_last_update">The intent for the last update that was sent, periodic updates will show as \"SensorWorker\". Enabling the \"Add New Intent\" toggle will create 1 setting to allow you to register for a broadcast intent. The toggle will switch back to off once a new setting is created so you will need to turn it back on to save more intents. You can also clear out the setting value to remove the setting in the next update. You must restart the application after making changes to these settings to take effect.</string>
   <string name="sensor_description_light_sensor">The current level of illuminance</string>
-  <string name="sensor_description_location_accurate">Allow Home Assistant to send a notification to request an accurate location along with the application periodically requesting an accurate location.  The Minimum Accuracy setting will allow you to decide how accurate the device location (in meters) has to be in order to send to Home Assistant.  The Minimum time between updates (in milliseconds) keeps the device from sending the accurate location too often. The Include in sensor update setting will make a location request with each sensor update.</string>
-  <string name="sensor_description_location_background">Update your location behind the scenes, periodically.  The Minimum Accuracy setting will allow you to decide how accurate the device location (in meters) has to be in order to send to Home Assistant.</string>
-  <string name="sensor_description_location_zone">Import existing Home Assistant zones as geofences for zone based tracking.  The Minimum Accuracy setting will allow you to decide how accurate the device location (in meters) has to be in order to send to Home Assistant.</string>
+  <string name="sensor_description_location_accurate">Allow Stark Tower to send a notification to request an accurate location along with the application periodically requesting an accurate location.  The Minimum Accuracy setting will allow you to decide how accurate the device location (in meters) has to be in order to send to Stark Tower.  The Minimum time between updates (in milliseconds) keeps the device from sending the accurate location too often. The Include in sensor update setting will make a location request with each sensor update.</string>
+  <string name="sensor_description_location_background">Update your location behind the scenes, periodically.  The Minimum Accuracy setting will allow you to decide how accurate the device location (in meters) has to be in order to send to Stark Tower.</string>
+  <string name="sensor_description_location_zone">Import existing Stark Tower zones as geofences for zone based tracking.  The Minimum Accuracy setting will allow you to decide how accurate the device location (in meters) has to be in order to send to Stark Tower.</string>
   <string name="sensor_description_lullaby">If a lullaby is playing</string>
   <string name="sensor_description_mic_muted">Whether or not the microphone is muted on the device</string>
   <string name="sensor_description_mobile_data">Whether or not mobile data is enabled on the device</string>
@@ -374,7 +374,7 @@ like to connect to:</string>
   <string name="sensor_description_volume_call">Volume level for calls on the device</string>
   <string name="sensor_description_volume_music">Volume level for music on the device</string>
   <string name="sensor_description_volume_ring">Volume level for the ringer on the device</string>
-  <string name="sensor_description_wifi_bssid">The mac address of the currently connected WiFi access point. Enabling the \"get_current_bssid\" toggle will create a new setting allowing you to rename the state sent back to Home Assistant for the chosen mac address. The toggle will default to off after the current BSSID is stored, so you will need to enable it once for each BSSID you wish to rename. You can also clear out the value to remove the setting in the next update.</string>
+  <string name="sensor_description_wifi_bssid">The mac address of the currently connected WiFi access point. Enabling the \"get_current_bssid\" toggle will create a new setting allowing you to rename the state sent back to Stark Tower for the chosen mac address. The toggle will default to off after the current BSSID is stored, so you will need to enable it once for each BSSID you wish to rename. You can also clear out the value to remove the setting in the next update.</string>
   <string name="sensor_description_wifi_connection">The name of the network the device is currently connected to</string>
   <string name="sensor_description_wifi_frequency">The frequency band of the connected network</string>
   <string name="sensor_description_wifi_ip">The current IP address of the device on the network</string>
@@ -426,8 +426,8 @@ like to connect to:</string>
   <string name="set_lock_title">App Locking Error</string>
   <string name="setting_ble_emitter_transmit_power_title">Transmitter power</string>
   <string name="settings">Settings</string>
-  <string name="share_failed">Sharing with Home Assistant Failed!</string>
-  <string name="share_success">Shared with Home Assistant</string>
+  <string name="share_failed">Sharing with Stark Tower Failed!</string>
+  <string name="share_success">Shared with Stark Tower</string>
   <string name="shopping_list">Shopping List</string>
   <string name="shortcut">Shortcut</string>
   <string name="description">Description</string>
@@ -474,7 +474,7 @@ like to connect to:</string>
   <string name="template_widget_default">Enter Template Here</string>
   <string name="themes_option_label_dark">Dark</string>
   <string name="themes_option_label_light">Light</string>
-  <string name="themes_option_label_system">Follow Home Assistant</string>
+  <string name="themes_option_label_system">Follow Stark Tower</string>
   <string name="themes_option_label_android">Follow System Settings</string>
   <string name="themes_option_value_dark">dark</string>
   <string name="themes_option_value_light">light</string>
@@ -489,24 +489,24 @@ like to connect to:</string>
   <string name="updating_sensors">Updating Sensors</string>
   <string name="unknown_address">Unknown address</string>
   <string name="url_invalid">Url Invalid</string>
-  <string name="url_parse_error">Unable to parse your Home Assistant URL. It should look like https://example.com</string>
+  <string name="url_parse_error">Unable to parse your Stark Tower URL. It should look like https://example.com</string>
   <string name="username">Username</string>
   <string name="view_password">View Password</string>
   <string name="wait">Wait</string>
-  <string name="webview_error">There was an error loading Home Assistant, please review the connection settings and try again. We will attempt to try another provided URL when you click on Refresh.</string>
+  <string name="webview_error">There was an error loading Stark Tower, please review the connection settings and try again. We will attempt to try another provided URL when you click on Refresh.</string>
   <string name="webview_error_description">Encountered error :</string>
-  <string name="webview_error_SSL_DATE_INVALID">The date of the Home Assistant certificate is invalid, please review the Home Assistant certificate or the connection settings and try again.</string>
-  <string name="webview_error_SSL_EXPIRED">The Home Assistant certificate has expired, please review the Home Assistant certificate or the connection settings and try again.</string>
-  <string name="webview_error_SSL_IDMISMATCH">The Home Assistant Hostname certificate mismatch, please review the Home Assistant certificate or the connection settings and try again.</string>
-  <string name="webview_error_SSL_INVALID">A generic SSL error occurred when loading Home Assistant, please review the Home Assistant certificate or the connection settings and try again.</string>
-  <string name="webview_error_SSL_NOTYETVALID">The Home Assistant certificate is not yet valid, please review the Home Assistant certificate or the connection settings and try again.</string>
-  <string name="webview_error_SSL_UNTRUSTED">The Home Assistant certificate authority is not trusted, please review the Home Assistant certificate or the connection settings and try again.</string>
+  <string name="webview_error_SSL_DATE_INVALID">The date of the Stark Tower certificate is invalid, please review the Stark Tower certificate or the connection settings and try again.</string>
+  <string name="webview_error_SSL_EXPIRED">The Stark Tower certificate has expired, please review the Stark Tower certificate or the connection settings and try again.</string>
+  <string name="webview_error_SSL_IDMISMATCH">The Stark Tower Hostname certificate mismatch, please review the Stark Tower certificate or the connection settings and try again.</string>
+  <string name="webview_error_SSL_INVALID">A generic SSL error occurred when loading Stark Tower, please review the Stark Tower certificate or the connection settings and try again.</string>
+  <string name="webview_error_SSL_NOTYETVALID">The Stark Tower certificate is not yet valid, please review the Stark Tower certificate or the connection settings and try again.</string>
+  <string name="webview_error_SSL_UNTRUSTED">The Stark Tower certificate authority is not trusted, please review the Stark Tower certificate or the connection settings and try again.</string>
   <string name="widget_attribute_separator_label">Separator between attributes:</string>
   <string name="widget_button_image_description">Service Button</string>
   <string name="widget_config_service_error">A custom component is preventing service data from loading.</string>
   <string name="widget_creation_error">Unable to create widget.</string>
   <string name="widget_entity_fetch_error">Unable to fetch data for configured entity.</string>
-  <string name="widget_image_description">Home Assistant Widget</string>
+  <string name="widget_image_description">Stark Tower Widget</string>
   <string name="widget_label_placeholder_text">Label</string>
   <string name="widget_media_fastforward_button">Fast Forward</string>
   <string name="widget_media_image_description">Media Playing Preview Image</string>
@@ -530,9 +530,9 @@ like to connect to:</string>
   <string name="widget_text_size_default">30</string>
   <string name="widget_text_size_label">Widget text size:</string>
   <string name="widgets">Widgets</string>
-  <string name="zone_event_failure">Unable to send zone event to Home Assistant</string>
+  <string name="zone_event_failure">Unable to send zone event to Stark Tower</string>
   <string name="what_is_this">What is this?</string>
-  <string name="what_is_this_crash">Unable to load Home Assistant home page, do you have a browser installed?</string>
+  <string name="what_is_this_crash">Unable to load Stark Tower home page, do you have a browser installed?</string>
   <string name="basic_sensor_name_battery_temperature">Battery Temperature</string>
   <string name="sensor_description_battery_temperature">The current battery temperature</string>
   <string name="shortcut_pinned_desc">Pinned Shortcut Description</string>
@@ -546,11 +546,11 @@ like to connect to:</string>
   <string name="filter_show_only_enabled_sensors">Only enabled sensors</string>
   <string name="share_logs">Share logs</string>
   <string name="share_logs_perm_message">In order to prepare the logs for sharing, the app needs permissions to access the external storage. Otherwise the log cannot be shared.\n\nDo you want to continue?</string>
-  <string name="share_logs_sens_message">Please note: By sharing the log, you could share sensitive data like location data or your Home Assistant URL.\n\nDo you want to continue?</string>
+  <string name="share_logs_sens_message">Please note: By sharing the log, you could share sensitive data like location data or your Stark Tower URL.\n\nDo you want to continue?</string>
   <string name="log_file_not_created">Log file could not be created.</string>
   <string name="log">Log</string>
   <string name="show_share_logs">Show and Share Logs</string>
-  <string name="show_share_logs_summary">Sharing logs with the Home Assistant team will help to solve issues. Please share the logs only if you have been asked to do so by a Home Assistant developer</string>
+  <string name="show_share_logs_summary">Sharing logs with the Stark Tower team will help to solve issues. Please share the logs only if you have been asked to do so by a Stark Tower developer</string>
   <string name="refresh_log">Refresh logs</string>
   <string name="log_loader_text">Collecting logs...</string>
   <string name="get_help">Get Help</string>
